@@ -23,3 +23,13 @@ Remember to choose `Install` when prompted to install the `ipykernel` package.
 Now you can choose each set of exercises from the sidebar based on the concepts you want to practice.
 
 Good luck!
+
+
+## Materials:
+
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Why Use Jupyter Notebook for Educational Purposes](https://realpython.com/python-jupyter-notebook/)
+- [Jupyter Notebook Documentation](https://jupyter.org/documentation)
+- [Illustrated Guide to Python 3 - Matt Harrison](https://realpython.com/python-f-strings/)
+- [Python Cheat Sheet - QuickRef](https://www.pythoncheatsheet.org/)
+- [Python f-Strings - Real Python](https://realpython.com/python-f-strings/)
