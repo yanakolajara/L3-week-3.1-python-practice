@@ -20,8 +20,9 @@ Choose 'yes' when prompted to include the `venv` in your workspace.
 
 Remember to choose `Install` when prompted to install the `ipykernel` package.
 
-Now you can choose each set of exercises from the sidebar based on the concepts you want to practice.
+Now you can choose each set of [`exercises.ipynb`](exercises.ipynb) from the sidebar to practice the concepts you've just learned.
 
+**Note** In the bottom right corner of the screen, hover over the `Cursor Tab` and in the box, choose `Disable Globally`. Also choose `disabled` in the `Cursor Prediction` dropbox. This will enable you to create the code on your own without the help of Cursor. Creating the functions yourself will help you learn the material.
 Good luck!
 
 ## Links:
